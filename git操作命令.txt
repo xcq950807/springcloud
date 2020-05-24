@@ -1,0 +1,10 @@
+1.Git基本操作命令：
+
+```sql
+git config --global user.name "xiaojiujiu"   设置git账户下的用户名； 
+git config --global user.email xiao95080711@163.com    设置git账户下的用户邮箱
+git config --list  查看git的所有配置信息
+
+
+```
+
